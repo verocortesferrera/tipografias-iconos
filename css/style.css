@@ -1,0 +1,47 @@
+div{
+	width: 300px;
+	float: left;
+}
+
+div.dibujo{
+	width: 200px;
+	height: 100px;
+	text-align: center;
+	color: gray;;
+	padding: 20px;
+	bottom: -50px;
+}
+
+.fa{
+	font-size: 100px;
+	text-align: center;
+	color: gray;
+	position: static;
+}
+
+.fa:hover{
+	font-size: 130px;
+	color: #4D394B;
+	margin-bottom: 30px;
+}
+p{
+	font-family: 'Copse', serif;
+	justify-content: left;
+	text-align: justify;
+}
+
+i{
+	margin-bottom: -200px;
+}
+
+h3, h5{
+	font-family: 'Faustina', serif;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+div.dibujo:hover{
+	color: purple;
+	cursor: pointer;
+
+}
